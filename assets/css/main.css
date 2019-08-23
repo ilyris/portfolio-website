@@ -8601,3 +8601,12 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+.fa-html5,
+.fa-css3-alt,
+.fa-js,
+.fa-drupal,
+.fa-jira,
+.fa-react {
+	font-size: 4rem;
+}
